@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+data/raw/
+data/processed/
+*.pt
+*.onnx
+mlruns/
+.dvc/cache/
+.pytest_cache/
+*.egg-info/
+dist/
+build/

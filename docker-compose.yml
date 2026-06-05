@@ -1,0 +1,7 @@
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+  ui:
+    command: streamlit run ui/streamlit_app.py --server.port 8501
+    ports: ["8501:8501"]
