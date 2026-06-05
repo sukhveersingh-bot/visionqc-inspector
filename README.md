@@ -1,4 +1,4 @@
-# Computer Vision Quality Control System
+# VisionQC — Computer Vision Quality Control System
 
 YOLOv8 defect detection with Roboflow pipeline, FastAPI serving, and ONNX export for production.
 
@@ -6,7 +6,7 @@ YOLOv8 defect detection with Roboflow pipeline, FastAPI serving, and ONNX export
 
 Full problem statement, target audience, technology stack, and industry research:
 
-**https://github.com/sukhveersingh-bot/jobsim-portfolio/tree/main/docs/p3-computer-vision-qc**
+**https://github.com/sukhveersingh-bot/ml-portfolio-research/tree/main/docs/p3-computer-vision-qc**
 
 ## Quick start
 
@@ -21,8 +21,8 @@ Build window: Jul 21 – Aug 10, 2026 (3 weeks)
 
 ## Future enhancements
 
-Post-v1 roadmap: [FUTURE-ENHANCEMENTS.md](https://github.com/sukhveersingh-bot/jobsim-portfolio/blob/main/FUTURE-ENHANCEMENTS.md)
+Post-v1 roadmap: [FUTURE-ENHANCEMENTS.md](https://github.com/sukhveersingh-bot/ml-portfolio-research/blob/main/FUTURE-ENHANCEMENTS.md)
 
 ---
 
-*Part of the JobSIM portfolio — Veer Singh*
+*VisionQC · ML portfolio — Veer Singh*
